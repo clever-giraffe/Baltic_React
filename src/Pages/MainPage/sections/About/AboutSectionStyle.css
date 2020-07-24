@@ -1,0 +1,11 @@
+.block-content-about {
+    display: flex;
+    justify-content: center;
+    margin: 68px auto;
+    text-align: center;
+    max-width: 80%;
+    font-family: 'adineue PRO Cyr', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28px;
+}

@@ -1,0 +1,1 @@
+import Advantage from "./AdvantageSection";export default Advantage;
