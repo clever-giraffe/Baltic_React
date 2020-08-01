@@ -1,0 +1,1 @@
+import React from 'react'; import PropTypes from 'prop-types'; import src from "./images/costa-coffee.jpg"import s from './CostaCofFeeStyle.scss';export default function CostaCoffee() {    return (        <div id="CostaCoffee">            <img src={src} alt=""/>        </div>     ); }

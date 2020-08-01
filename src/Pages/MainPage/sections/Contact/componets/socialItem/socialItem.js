@@ -1,0 +1,1 @@
+import React from 'react'; import PropTypes from 'prop-types';import './socialItemStyle.scss';export default function SocialItem(src, href) {    return (        <div>             <a href={href}><img src={src} className="contact-social-item" /></a>        </div>     ); }SocialItem.propTypes = {    src: PropTypes.string,    href: PropTypes.string,}

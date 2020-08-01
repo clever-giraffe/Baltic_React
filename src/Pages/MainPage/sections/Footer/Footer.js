@@ -1,0 +1,1 @@
+import React from 'react';import  "./FooterStyle.scss";export default function Footer() {     return (        <div id="Footer">             <div><p>Рига, Латвия</p></div>            <br/>            <div className="green-footer">                <p>&copy; 2020</p>            </div>        </div>    ); }

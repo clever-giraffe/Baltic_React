@@ -1,0 +1,1 @@
+import OurObject from './OurObject';export default {    OurObject};

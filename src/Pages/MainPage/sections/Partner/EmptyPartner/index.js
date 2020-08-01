@@ -1,0 +1,1 @@
+import EmptyPartner from './EmptyPartner';export default {    EmptyPartner};

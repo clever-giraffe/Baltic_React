@@ -1,0 +1,1 @@
+@mixin dis($dis, $j-c, $al-item) {  display: $dis;  justify-content: $j-c;  align-items: $al-item;}#OurWorks{  display: flex;  flex-direction: column;}

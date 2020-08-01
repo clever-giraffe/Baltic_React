@@ -1,0 +1,1 @@
+import CostaCoffee from './CostaCoffee';export default {    CostaCoffee};

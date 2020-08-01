@@ -1,0 +1,1 @@
+import React from 'react'; import PropTypes from 'prop-types'; import './EmptyPartnerStyle.scss';export default function EmptyPartner() {     return (        <div id="EmptyPartner">                     </div>     ); }
