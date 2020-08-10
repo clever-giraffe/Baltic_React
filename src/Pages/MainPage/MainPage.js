@@ -1,4 +1,6 @@
 import React from 'react';
+import "./MainPageStyles.scss"
+
 import Wrapper from "./components/Wrapper/Wrapper";
 import Header from "./sections/Header";
 import Banner from "./sections/Banner/Banner";
@@ -24,8 +26,8 @@ const MainPage = () => {
                 <OurWorks/>
                 <Partner/>
                 <Contact/>
+                <Footer/>
             </Wrapper>
-            <Footer/>
         </main>
     )
 }

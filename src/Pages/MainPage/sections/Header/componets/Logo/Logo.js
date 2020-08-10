@@ -1,0 +1,1 @@
+import React from 'react'; import PropTypes from 'prop-types'; import logo from "../../images/logo.png"import './LogoStyle.scss';export default function Logo() {    return (        <div className="Logo">            <img src={logo} alt="logo"            />        </div>     ); }Logo.propTypes = {}

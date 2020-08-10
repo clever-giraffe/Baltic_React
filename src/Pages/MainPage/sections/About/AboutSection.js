@@ -5,7 +5,7 @@ import TitleBlock from "../../components/TitleBlock/TitleBlock";
 export default function AboutSection() {
     return (
         <div>
-            <TitleBlock title={"О нас"}/>,
+            <TitleBlock title={"О нас"}/>
             <div className="block-content-about">
                 <p>Наша компания качественно и в кратчайшие сроки выполнит уборку любой сложности.
                     Работаем с 2006 года. За это время накопили огромный опыт и более 2000 положительных отзывов

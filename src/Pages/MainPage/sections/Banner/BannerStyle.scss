@@ -1,1 +1,1 @@
-#banner {}
+#banner {  background-color: #FAFAFA;  .contain{    width: 100%;    height: calc(100vh - 100px);    display: grid;    justify-content: center;    align-items: end;    text-align: center;    grid-template-rows: 40% 60%;    overflow: hidden;    .title-banner{      align-content: end;      font-family: "Fira Code", sans-serif;       h3 {        font-size: 36px;        font-weight: 400;}      h6 {        font-size: 18px;        font-weight: 400;      }    }  }}

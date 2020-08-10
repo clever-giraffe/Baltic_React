@@ -1,1 +1,1 @@
-import React from 'react'; import PropTypes from 'prop-types'; import dhl from "./images/parthner-dhl.jpg"import s from './DHLStyle.scss'; export default function DHL() {     return (        <div id="DHL">            <img src={dhl} alt=""/>        </div>     ); }
+import React from 'react'; import dhl from "./images/parthner-dhl.jpg"import './DHLStyle.scss';export default function DHL() {     return (        <div id="DHL">            <img src={dhl} alt="DHL"/>        </div>     ); }
